@@ -1,5 +1,5 @@
 /*
-	Licenced under MIT
+	Licenced under MIT No Attribution.
 */
 /*
 

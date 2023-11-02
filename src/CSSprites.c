@@ -1,3 +1,6 @@
+/*
+	Licenced under MIT No Attribution.
+*/
 #include "CSSprites.h"
 #include "CSFileOperations.h"
 

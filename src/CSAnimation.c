@@ -1,3 +1,6 @@
+/*
+	Licenced under MIT No Attribution.
+*/
 #include "CSAnimation.h"
 #include "CSSprites.h"
 
